@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[일상] github blod 첫 사용기"
+excerpt: "생각보다 쉽지만 어렵다.."
 
 categories:
   - Categories1
