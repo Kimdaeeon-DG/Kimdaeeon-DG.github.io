@@ -3,11 +3,11 @@ title: "GitHub 블로그 포스팅 방법 완벽 가이드"
 excerpt: "Jekyll 기반 GitHub 블로그에 포스트 작성하는 방법을 알아봅시다"
 
 categories:
-  - GitHub
+  - Blog
 tags:
   - [Github, Jekyll, Blog, Markdown]
 
-permalink: /blog/github-blog-posting-guide/
+permalink: /categories/blog/github-blog-posting-guide/
 
 toc: true
 toc_sticky: true
