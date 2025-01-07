@@ -18,6 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "Blog"
+    url: "/categories/blog/"
   - title: "Categories1"
     url: /categories/categories1/
   - title: "Categories2"
