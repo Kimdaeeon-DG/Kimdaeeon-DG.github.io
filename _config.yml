@@ -68,7 +68,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification:
+google_site_verification: TO9bcCBJZvapkOvVLF_OSBnhgotLk823fPnSkCPoQFg # Google Search Console
 bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
@@ -282,3 +282,5 @@ defaults:
       related: true
       sidebar:
         nav: "categories"
+
+<meta name="google-site-verification" content="TO9bcCBJZvapkOvVLF_OSBnhgotLk823fPnSkCPoQFg" />
